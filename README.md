@@ -1,6 +1,7 @@
 # DSS
 Daily Work Form 
-This project collects form submissions of workers and sends me daily updates. </br>
+
+This project collects form submissions of workers and sends me daily updates.
 
 README.md  
 
